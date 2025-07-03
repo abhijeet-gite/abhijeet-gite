@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hello, I'm Abhijeet Gite
 
-<!--
-**abhijeet-gite/abhijeet-gite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Aspiring Full Stack Developer | MERN Stack & Java  
+💻 Passionate about building real-world web apps and solving problems   
+🌱 Constantly exploring new tech and improving everyday
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend**: HTML, CSS, JavaScript, React.js  
+**Backend**: Node.js, Express.js, Spring Boot  
+**Database**: MongoDB, PostgreSQL  
+**Tools**: Git, GitHub, VS Code, Postman  
+**Languages**: C++, Java, JavaScript  
+
+
+## 🔗 Let's Connect
+
+[![LinkedIn]- ( https://linkedin.com/in/abhijeetgite )  
+[![GitHub]- ( https://github.com/abhijeet-gite )
+
