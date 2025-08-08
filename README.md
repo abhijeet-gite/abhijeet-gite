@@ -7,9 +7,9 @@ Skills & Technologies
 ✅ Frontend: HTML, CSS, JavaScript, React.js
 ✅ Backend: Node.js, Java 
 ✅ Database: MongoDB, MySQL
-✅ Tools: Git, GitHub, VS Code, Postman, IntelliJ IDEA, Eclipse
+✅ Tools: Git, GitHub, VS Code, Postman
 ✅ Languages: C++, Java, JavaScript
-✅ Frameworks: Spring Boot, Hibernate 
+✅ Frameworks: Spring Boot
 
 
  Let's Connect
