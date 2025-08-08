@@ -6,7 +6,7 @@ Hello, I'm Abhijeet Gite
 Skills & Technologies
 ✅ Frontend: HTML, CSS, JavaScript, React.js
 ✅ Backend: Node.js, Java 
-✅ Database: MongoDB, PostgreSQL, MySQL
+✅ Database: MongoDB, MySQL
 ✅ Tools: Git, GitHub, VS Code, Postman, IntelliJ IDEA, Eclipse
 ✅ Languages: C++, Java, JavaScript
 ✅ Frameworks: Spring Boot, Hibernate 
