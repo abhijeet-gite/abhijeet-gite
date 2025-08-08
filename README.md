@@ -1,16 +1,15 @@
- Hello, I'm Abhijeet Gite
+Hello, I'm Abhijeet Gite
+✅ Aspiring MERN & Java Full Stack Developer
+✅ Passionate about building real-world web apps and solving problems
+✅ Constantly exploring new tech and improving everyday
 
-✅Aspiring Full Stack Developer | MERN Stack 
-✅Passionate about building real-world web apps and solving problems   
-✅Constantly exploring new tech and improving everyday
-
- Skills & Technologies
-
-✅Frontend: HTML, CSS, JavaScript, React.js  
-✅Backend: Node.js, Express.js,  
-✅Database: MongoDB, PostgreSQL  
-✅Tools: Git, GitHub, VS Code, Postman  
-✅Languages: C++, JavaScript  
+Skills & Technologies
+✅ Frontend: HTML, CSS, JavaScript, React.js
+✅ Backend: Node.js, Java 
+✅ Database: MongoDB, PostgreSQL, MySQL
+✅ Tools: Git, GitHub, VS Code, Postman, IntelliJ IDEA, Eclipse
+✅ Languages: C++, Java, JavaScript
+✅ Frameworks: Spring Boot, Hibernate 
 
 
  Let's Connect
